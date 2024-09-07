@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @VikasVk03<br>👀 I’m interested in Web development, Data science, and Game development.<br>🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>💞️ I’m looking to collaborate on Github and social media.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I have just started exploring Technology<br>😎 this is education profile and managed by https://github.com/VikasVk03
+👋 Hi, I’m @VikasVk03<br>👀 I’m interested in Web development, Data science, and Game development.<br>🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>💞️ I’m looking to collaborate on Github and social media.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I have just started exploring Technology<br>😎 this is education profile @VIKASVK0102
 
 
 ## 🌐 Socials:
