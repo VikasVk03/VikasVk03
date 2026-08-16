@@ -1,150 +1,437 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vikas%20Vishwakarma&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=48&descAlign=50" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=220&section=header&text=Vikas%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20C%2B%2B%20Systems%20%7C%20Quant%20Development&descAlignY=55&descSize=18&descColor=e2e8f0" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;C%2B%2B+Systems+%26+Networking+%F0%9F%92%BB;Quant+Development+Enthusiast+%F0%9F%93%88;Building+QuantPulse+%E2%9A%A1;Learning+Low-Latency+Systems+%F0%9F%94%A5;Always+Building%2C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/VikasVk03">
+<img src="https://komarev.com/ghpvc/?username=VikasVk03&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/VikasVk03?tab=followers">
+<img src="https://img.shields.io/github/followers/VikasVk03?label=Followers&style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers"/>
+</a>
+
+<a href="https://github.com/VikasVk03?tab=repositories">
+<img src="https://img.shields.io/github/stars/VikasVk03?label=Stars&style=for-the-badge&color=fbbf24&labelColor=0f172a" alt="Stars"/>
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+Development+Enthusiast+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikasVk03&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/VikasVk03?label=Followers&style=flat-square&color=6366f1&labelColor=1e293b" alt="followers" />
-  <img src="https://img.shields.io/github/stars/VikasVk03?label=Stars&style=flat-square&color=fbbf24&labelColor=1e293b" alt="stars" />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+---
 
 ## 👨‍💻 About Me
 
-```javascript
-const vikas = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentRole: "Aspiring Full Stack Developer",
-    
-    passions: ["Building innovative projects", "Solving problems", "Contributing to open source"],
-    
-    currentlyLearning: {
-        frontend: ["React", "TailwindCSS"],
-        backend: ["Node.js", "Express"],
-        databse: ["MongoDb", "MySQL", "Redis"],
-        exploring: ["Quant Development", "Game Development"]
-    },
-    
-    funFact: "Just started my journey in Tech, and loving it every day! ⚡",
-    openToCollaborate: true
+```cpp
+class Vikas {
+public:
+
+    std::string role = "Software Engineer in the making";
+    std::string location = "India 🇮🇳";
+
+    std::vector<std::string> interests = {
+        "C++ Systems Programming",
+        "Quantitative Development",
+        "Low-Latency Systems",
+        "Networking",
+        "Full Stack Development"
+    };
+
+    std::vector<std::string> currentlyBuilding = {
+        "QuantPulse",
+        "NetPulse"
+    };
+
+    std::vector<std::string> currentlyLearning = {
+        "Modern C++20",
+        "Data Structures & Algorithms",
+        "Computer Networks",
+        "System Design",
+        "Quantitative Finance"
+    };
+
+    bool openToCollaborate = true;
 };
 ```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+### ⚡ What I'm Working On
+
+* 📈 **QuantPulse** — Market Microstructure & Risk Intelligence Platform
+* 🌐 **NetPulse** — C++ network bandwidth & latency analyzer
+* 🧠 Strengthening **C++ / DSA / Systems Programming**
+* ⚡ Exploring **low-latency and performance-oriented software**
+* 💻 Building full-stack applications with **React + Node.js**
+* 📚 Learning the fundamentals behind **quantitative development**
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+### 💻 Languages
 
-**Languages:** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
+</p>
 
-**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+### 🌐 Full Stack
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" />
+</p>
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+### 🗄️ Databases & Infrastructure
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,nginx" />
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+### ⚙️ Systems & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,cmake,vscode,postman" />
+</p>
+
+**Systems:** POSIX Sockets • TCP/IP • Network Programming • Latency Measurement • STL • CMake • Linux
+
+---
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/VikasVk03/FinanceFlow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=FinanceFlow&theme=react&bg_color=1e293b&title_color=6366f1&icon_color=fbbf24&text_color=e2e8f0&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/VikasVk03/Neon-theme-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=Neon-theme-portfolio&theme=react&bg_color=1e293b&title_color=6366f1&icon_color=fbbf24&text_color=e2e8f0&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/VikasVk03/banking">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=banking&theme=react&bg_color=1e293b&title_color=6366f1&icon_color=fbbf24&text_color=e2e8f0&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/VikasVk03/JavaScript-Sorting-Visualizer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=JavaScript-Sorting-Visualizer&theme=react&bg_color=1e293b&title_color=6366f1&icon_color=fbbf24&text_color=e2e8f0&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/VikasVk03/QuantPulse-VP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=QuantPulse-VP&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=fbbf24&text_color=e2e8f0" />
+</a>
+
+<br/>
+
+<b>📈 QuantPulse</b>
+
+<br/>
+
+Market Microstructure & Risk Intelligence Platform
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/VikasVk03/NetPulse">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=NetPulse&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=fbbf24&text_color=e2e8f0" />
+</a>
+
+<br/>
+
+<b>⚡ NetPulse</b>
+
+<br/>
+
+C++ Network Bandwidth & Latency Analyzer
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/VikasVk03/Rasoi-Food-Delivery-WebApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVk03&repo=Rasoi-Food-Delivery-WebApp&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=fbbf24&text_color=e2e8f0" />
+</a>
+
+<br/>
+
+<b>🍽️ Rasoi</b>
+
+<br/>
+
+Full Stack Food Delivery Platform
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/prancodes/FinanceFlow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prancodes&repo=FinanceFlow&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=fbbf24&text_color=e2e8f0" />
+</a>
+
+<br/>
+
+<b>💰 FinanceFlow</b>
+
+<br/>
+
+AI-Powered Personal Finance Platform
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikasVk03&show_icons=true&theme=react&bg_color=1e293b&title_color=6366f1&icon_color=fbbf24&text_color=e2e8f0&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=VikasVk03&theme=react&background=1e293b&ring=6366f1&fire=fbbf24&currStreakLabel=6366f1&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasVk03&theme=tokyonight&animation=load" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikasVk03&theme=tokyonight&animation=stagger" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VikasVk03&theme=tokyonight&animation=sequence" width="48%" />
+
 </div>
+
+---
+
+## ⚡ Engineering Snapshot
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasVk03&layout=compact&theme=react&bg_color=1e293b&title_color=6366f1&text_color=e2e8f0&hide_border=true&langs_count=8" />
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+### C++ Systems
+
+Modern C++20
+STL
+CMake
+Linux
+POSIX Sockets
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+### Networking
+
+TCP/IP
+Latency
+Bandwidth
+Jitter
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+### Quant
+
+Market Data
+Statistics
+Risk
+Microstructure
+Quant Research
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### Full Stack
+
+React
+Node.js
+REST APIs
+MongoDB
+Real-time Systems
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+---
+
+## 🔭 What I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📈 QuantPulse
+
+**Market Microstructure & Risk Intelligence**
+
+```text
+Market Data
+     │
+     ▼
+┌─────────────┐
+│ Data Engine │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────────┐
+│ Statistics      │
+│ Risk Analytics  │
+│ Microstructure  │
+└────────┬────────┘
+         │
+         ▼
+   Intelligence
+```
+
+**Stack:** C++20 • Quantitative Finance • Statistics • Systems
+
+</td>
+
+<td width="50%">
+
+### ⚡ NetPulse
+
+**Network Performance Analyzer**
+
+```text
+Client
+  │
+  │ TCP
+  ▼
+┌──────────────┐
+│ C++ Server   │
+└──────┬───────┘
+       │
+       ▼
+Latency Metrics
+       │
+ ┌─────┼─────┐
+ ▼     ▼     ▼
+AVG   P95   P99
+```
+
+**Stack:** C++ • POSIX Sockets • TCP/IP • Linux
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 My Current Direction
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=800&lines=From+Web+Development+%E2%86%92+Systems+Programming;From+Systems+%E2%86%92+Quantitative+Development;Building+QuantPulse+%E2%9A%A1;Learning+How+High-Performance+Systems+Actually+Work+%F0%9F%94%A5" />
+
+</div>
+
+---
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikasVk03&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="90%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=VikasVk03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" width="95%" />
+
 </div>
 
-<details>
-<summary><b>🌟 GSSOC 2024 Badge</b></summary>
-<br>
+### 🥈 Hackathon — 2nd Prize
+
+**Dev with AI — Bharati Vidyapeeth**
+
+Built **FinanceFlow**, an AI-powered personal finance platform using the MERN stack.
+
+### 🏅 Top 100 — ABV-IIITM Gwalior Hackathon
+
+Selected among **5000+ applicants** with team **HackAstra** for **MedSahi**.
+
+### 📚 Research
+
+**QuantPulse: Market Microstructure and Risk Intelligence Platform**
+
+Research work selected for presentation and publication at **ICICN 2026 — MulticonW2026**.
+
+---
+
+## 🎯 Current Focus
+
+```text
+                    ┌─────────────────────────┐
+                    │     SOFTWARE ENGINEERING │
+                    └────────────┬────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             ▼                   ▼                   ▼
+       C++ SYSTEMS          QUANT DEV          FULL STACK
+             │                   │                   │
+             ▼                   ▼                   ▼
+       Networking          Market Data          React / Node
+       Linux               Statistics           REST APIs
+       Performance         Risk                 Databases
+       Low Latency         Microstructure       Real-time Apps
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                         🚀 BUILDING SYSTEMS
+```
+
+---
+
+## 💭 Developer Philosophy
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
-  <p><b>Successfully participated in GirlScript Summer of Code 2024</b></p>
-</div>
-</details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+> **"Don't just learn the technology. Build something that forces you to understand it."**
 
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-vishwakarma-649462289)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasvishwakarma0102@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasVk03)
+
+<a href="https://linkedin.com/in/vikas-vishwakarma-649462289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:vikasvishwakarma0102@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/VikasVk03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%" />
+---
 
 <div align="center">
-  
-### 💙 Thanks for visiting!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Let's+collaborate+and+build+amazing+things!;Always+open+to+new+opportunities!+%F0%9F%9A%80" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+systems+%E2%9A%A1;Learning+C%2B%2B+%F0%9F%92%BB;Exploring+Quant+Development+%F0%9F%93%88;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Footer" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:0f172a&height=100&section=footer" width="100%" />
+
 </div>
